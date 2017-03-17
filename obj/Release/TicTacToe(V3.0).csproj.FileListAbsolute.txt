@@ -1,0 +1,14 @@
+F:\Pro-storage\TicTacToe(V3.0)\build\TicTacToe(V3.0).exe.config
+F:\Pro-storage\TicTacToe(V3.0)\build\TicTacToe(V3.0).exe
+F:\Pro-storage\TicTacToe(V3.0)\build\TicTacToe(V3.0).pdb
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe(V3.0).csprojResolveAssemblyReference.cache
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe_V3._0_.Form1.resources
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe_V3._0_.Properties.Resources.resources
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe(V3.0).csproj.GenerateResource.Cache
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe(V3.0).exe
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe(V3.0).pdb
+F:\Pro-storage\TicTacToe(V3.0)\build\TicTacToe(V3.0).exe.manifest
+F:\Pro-storage\TicTacToe(V3.0)\build\TicTacToe(V3.0).application
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe(V3.0).TrustInfo.xml
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe(V3.0).exe.manifest
+F:\Pro-storage\TicTacToe(V3.0)\obj\Release\TicTacToe(V3.0).application
